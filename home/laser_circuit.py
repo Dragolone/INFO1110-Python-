@@ -6,9 +6,6 @@ from mirror import Mirror
 from board_displayer import BoardDisplayer
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 LaserCircuit - Responsible for storing all the components of the circuit and
 handling the computation of running the circuit. It's responsible for delegating 
