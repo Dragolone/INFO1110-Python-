@@ -3,10 +3,6 @@ from circuit_for_testing import get_my_lasercircuit
 from run import set_pulse_sequence
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
-
 This test program checks if the set_pulse_sequence function is implemented
 correctly.
 
