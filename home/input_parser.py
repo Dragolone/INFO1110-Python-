@@ -3,10 +3,6 @@ from receiver import Receiver
 from mirror import Mirror
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
-
 input_parser - A module that parses the inputs of the program. 
 We define parsing as checking the validity of what has been entered 
 to determine if it's valid. If it's not valid, an appropriate message 
