@@ -1,6 +1,3 @@
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 **Test Cases**
 Table 1. Summary of test cases for parse_pulse_sequence
