@@ -1,9 +1,6 @@
 from photon import Photon
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 Emitter - A laser that emits a photon with a frequency and direction.
 The frequency and direction of the photon it emits is determined by the
