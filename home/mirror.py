@@ -1,8 +1,5 @@
 from photon import Photon
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 Mirror - A surface that reflect photons, changing the direction in which they 
 travel. A photon may also become lost depending on the type of mirror and the
