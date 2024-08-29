@@ -2,10 +2,6 @@ from emitter import Emitter
 from receiver import Receiver
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
-
 sorter - A module that provides sorting functions for you to use.
 Since most students taking this course have not done algorithms, you are not
 expected to know how to sort. You should have the ability to use our sort
