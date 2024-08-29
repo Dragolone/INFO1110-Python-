@@ -3,9 +3,6 @@ from receiver import Receiver
 from laser_circuit import LaserCircuit
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 This is a helper function used to return a circuit which is ready for testing.
 This is to be used in the test.py file.
