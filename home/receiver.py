@@ -1,10 +1,6 @@
 from photon import Photon
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
-
 Receiver - A photodetector which absorbs photons and stores its energy. 
 When a photon reaches a receiver, the receiver will absorb the photon and
 abosrb its energy. Once a receiver absorbs a photon, the receiver becomes
