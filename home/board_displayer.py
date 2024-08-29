@@ -4,9 +4,7 @@ from photon import Photon
 from mirror import Mirror
 
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
+
 
 BoardDisplayer - A helper class used to display the circuit board.
 Each time a component is added to the circuit, this board is updated to 
