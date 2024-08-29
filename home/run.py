@@ -6,9 +6,6 @@ from mirror import Mirror
 from laser_circuit import LaserCircuit
 import board_displayer
 '''
-Name:   QILONG ZHONG
-SID:    540238846
-Unikey: qzho0669
 
 run - Runs the entire program. It needs to take in the inputs and process them
 into setting up the circuit. The user can specify optional flags to perform
