@@ -1,6 +1,6 @@
 # INFO1110 Assignment Overview
 
-This assignment is part of the INFO1110 course, and it focuses on implementing and emulating a simple version of a photonic circuit. The assignment involves using C++ to create an emulation that controls and manages the behavior of photons, which are emitted by lasers and interact with other photonic components. The key goal is to build an emulation that can accurately simulate a photonic circuit, providing a hands-on experience in building and working with circuit-like components through coding.
+This assignment is part of the INFO1110 course, and it focuses on implementing and emulating a simple version of a photonic circuit. The assignment involves using python to create an emulation that controls and manages the behavior of photons, which are emitted by lasers and interact with other photonic components. The key goal is to build an emulation that can accurately simulate a photonic circuit, providing a hands-on experience in building and working with circuit-like components through coding.
 
 ### Key Features of the Assignment
 
